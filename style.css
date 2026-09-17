@@ -11,3 +11,28 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+/* Tags principais */
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+main {
+    display: flex;
+    width: fit-content;
+    max-width: 320px;
+    height: fit-content;
+    flex-direction: column;
+    border-radius: 1rem;
+    background-color: black; /* Só para testar */
+}
