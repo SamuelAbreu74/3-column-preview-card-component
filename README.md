@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-html-and-css-responsive-mobile-first-jLzTgA6mgw]
-- Live Site URL: [https://samuelabreu74.github.io/Order-summary-component/]
+- Solution URL: [https://www.frontendmentor.io/solutions/3-column-preview-card-flexbox-mobile-first-media-queries-Jki82ZnY_1]
+- Live Site URL: [https://samuelabreu74.github.io/3-column-preview-card-component/]
 
 ## My process
 
